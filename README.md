@@ -93,8 +93,8 @@ Core2に転送して実行し、ボタンAで制御を開始します。モー�
 
 ## 関連記事
 
-- Qiita記事：公開後にURLを追加
+- Qiita記事：https://qiita.com/_Moony/items/b633bd665e69d27c7ac4
 
 ## ライセンス
 
-ライセンスは未設定です。公開時に再利用条件を決め、必要に応じて `LICENSE` ファイルを追加してください。
+MIT License
